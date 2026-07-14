@@ -1,0 +1,10 @@
+{
+  "Late Delivery": ["late delivery", "delayed", "came late"],
+  "Fast Delivery": ["fast delivery", "quick delivery"],
+  "Battery Issue": ["battery drains", "poor battery", "battery problem"],
+  "Good Packaging": ["good packaging", "excellent packaging", "well packed"],
+  "Bad Sound Quality": ["poor sound", "speaker issue"],
+  "Heating Issue": ["overheating", "gets hot"],
+  "Charging Issue": ["slow charging", "charging problem"],
+  "Camera Quality": ["great camera", "excellent camera"]
+}
